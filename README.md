@@ -69,22 +69,22 @@
 <h3 align="center">LeetCode Achievements:</h3>
 <div align="center" style="text-align: center;">
   <a href="https://leetcode.com/u/Mr_coder_01/" target="_blank" style="display: inline-block; margin-right: 10px;">
-    <img src="https://leetcode.com/static/images/badges/2022/gif/2022-annual-100.gif" alt="Mr_coder_01 Annual Badge" height="100" width="100" />
+    <img src="https://assets.leetcode.com/static_assets/marketing/2024-200-lg.gif" alt="Mr_coder_01 Annual Badge" height="100" width="100" />
   </a>
   <a href="https://leetcode.com/u/Mr_coder_01/" target="_blank" style="display: inline-block;">
-    <img src="https://leetcode.com/static/images/badges/2022/gif/2022-12.gif" alt="Mr_coder_01 December Badge" height="100" width="100"  />
+    <img src="https://leetcode.com/static/images/badges/2022/gif/2022-12.gif" alt="Mr_coder_01   Badge" height="100" width="100"  />
   </a>
   <a>
-    <img src="https://assets.leetcode.com/static_assets/marketing/2023-50.gif" alt="Mr_coder_01 50 Days Streak Badge" height="100" width="100"/>
+    <img src="https://assets.leetcode.com/static_assets/marketing/2024-100-lg.gif" alt="Mr_coder_01 50 Days Streak Badge" height="100" width="100"/>
   </a>
   <a>
-    <img src="https://assets.leetcode.com/static_assets/others/Knight.gif" alt="Mr_coder_01 Knight Badge" height="100" width="100"/>
+    <img src="https://assets.leetcode.com/static_assets/marketing/2024-50-lg.gif" alt="Mr_coder_01  Badge" height="100" width="100"/>
   </a>
   <a>
-    <img src="https://assets.leetcode.com/static_assets/marketing/2023-100.gif" alt="Mr_coder_01 100 Days Streak Badge" height="100" width="100"/>
+    <img src="https://assets.leetcode.com/static_assets/public/images/badges/dcc-2024-4..gif" alt="Mr_coder_01 100 Days Streak Badge" height="100" width="100"/>
   </a>
   <a>
-    <img src="https://leetcode.com/static/images/badges/2024/gif/2024-01.gif" alt="Mr_coder_01 January 2024 Badge" height="100" width="100"/>
+    <img src="https://assets.leetcode.com/static_assets/public/images/badges/dcc-2023-11.gif" alt="Mr_coder_01 January 2024 Badge" height="100" width="100"/>
   </a>
 </div>
 
