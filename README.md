@@ -19,13 +19,13 @@
     <img src="https://github-profile-trophy.vercel.app/?username=garud-1&theme=onedark" alt="GitHub Trophies"/>
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
 <div align="center">
     <img src="https://media.giphy.com/media/xT0GqeSlGSRQub4j0w/giphy.gif" alt="Dynamic Divider" style="width: 80%; height: 4px; border-radius: 10px;" />
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
 <img align="right" alt="Coding Animation" width="300" src="https://media1.tenor.com/m/cX92mi1p-NYAAAAd/coding-anime.gif">
 
@@ -39,7 +39,7 @@
 - 💬 Ask me about **C, C++**
 - 📫 How to reach me: **akswale111@gmail.com**
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
@@ -66,7 +66,7 @@
     </a>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
 <h3 align="center">LeetCode Achievements:</h3>
 <div align="center" style="text-align: center;">
@@ -92,8 +92,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
----
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 <h3 align="center">Achievements & Badges:</h3>
 
 <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px;">
@@ -113,7 +112,7 @@
     </a>
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
 <div align="center">
     <img src="https://leetcard.jacoblin.cool/Mr_coder_01?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Heatmap" />
