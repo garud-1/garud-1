@@ -69,11 +69,28 @@
 ---
 
 <h3 align="center">LeetCode Achievements:</h3>
-<div align="center" style="display:flex; flex-wrap: wrap; gap: 10px;">
-    <img src="https://leetcode-badge.mattvassallo.repl.co/?username=Mr_coder_01&theme=dark" alt="LeetCode Profile Badge" width="120"/>
-    <img src="https://leetcode-badge.mattvassallo.repl.co/?username=Mr_coder_01&theme=dark&style=rank" alt="LeetCode Rank Badge" width="120"/>
-    <img src="https://leetcode-badge.mattvassallo.repl.co/?username=Mr_coder_01&theme=dark&style=total_problems_solved" alt="LeetCode Total Problems Badge" width="120"/>
+<div align="center" style="text-align: center;">
+  <a href="https://leetcode.com/u/Mr_coder_01/" target="_blank" style="display: inline-block; margin-right: 10px;">
+    <img src="https://leetcode.com/static/images/badges/2022/gif/2022-annual-100.gif" alt="Mr_coder_01 Annual Badge" height="100" width="100" />
+  </a>
+  <a href="https://leetcode.com/u/Mr_coder_01/" target="_blank" style="display: inline-block;">
+    <img src="https://leetcode.com/static/images/badges/2022/gif/2022-12.gif" alt="Mr_coder_01 December Badge" height="100" width="100"  />
+  </a>
+  <a>
+    <img src="https://assets.leetcode.com/static_assets/marketing/2023-50.gif" alt="Mr_coder_01 50 Days Streak Badge" height="100" width="100"/>
+  </a>
+  <a>
+    <img src="https://assets.leetcode.com/static_assets/others/Knight.gif" alt="Mr_coder_01 Knight Badge" height="100" width="100"/>
+  </a>
+  <a>
+    <img src="https://assets.leetcode.com/static_assets/marketing/2023-100.gif" alt="Mr_coder_01 100 Days Streak Badge" height="100" width="100"/>
+  </a>
+  <a>
+    <img src="https://leetcode.com/static/images/badges/2024/gif/2024-01.gif" alt="Mr_coder_01 January 2024 Badge" height="100" width="100"/>
+  </a>
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
 ---
 
